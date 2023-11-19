@@ -1,7 +1,8 @@
-# HTML Exercise 3 
+# HTML Hover Effect Exercise 
 
 > **unit:** 6  
-**title:** Website Development
+**title:** Website Development  
+**exercise:** 3
 
 ---
 
